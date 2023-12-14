@@ -1,7 +1,7 @@
 # Welcome to the Granted. Docs Hub
 ### The Official documentation for all GetGranted.io Products and Services.
 
-Apply Today 👉 [Here](​https://www.getgranted.io/granted-application)
+[🚀 Apply Today](​https://www.getgranted.io/granted-application)
 
 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
