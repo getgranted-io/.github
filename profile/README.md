@@ -6,6 +6,7 @@
 🪢 Our Fundraising Nexus support's managing application flow's from start to finish, including powerful centralized analytics.
 
 **Ready to get started? **
+
 👉 [Apply today](​https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io)
 
 Let's connect the best builders to the highest quality sources of funding to drive web3 development and adoption globally! 
