@@ -5,7 +5,8 @@
 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
 🪢 Our Fundraising Nexus support's managing application flow's from start to finish, including powerful centralized analytics.
 
-[🚀Apply today](​https://www.getgranted.io/granted-application)
+**Ready to get started? **
+👉 [Apply today](​https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io)
 
 Let's connect the best builders to the highest quality sources of funding to drive web3 development and adoption globally! 
 
@@ -18,9 +19,6 @@ Apply for a grant and benefit from our streamlined pre-qualification process, ta
 ### Funders Seeking Projects
 Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today! [Learn more](FIXME).
 
-Ready to get started? 
-👉 [Apply today](​https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io)
-​
 ## 💬 Community
 Stay connected with  team and community:
   * Visit https://getgranted.io to learn more about the latest products and pricing.
