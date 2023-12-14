@@ -11,7 +11,7 @@ _The official home for all GetGranted.io open source code and documentation repo
 
 🪢 Our Fundraising Nexus supports managing application flows from start to finish, including powerful centralized analytics.
 
-🚀 **Ready to get started?** 👉 [Apply](https://getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io) today!
+🚀 **Ready to get started?** 👉 [Apply today](https://getgranted.io/granted-application)!
 
 ## 🛠️ Quickstart Guide
 
