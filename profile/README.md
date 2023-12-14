@@ -1,11 +1,11 @@
 # Welcome to the Granted. Docs Hub
 ### The Official documentation for all GetGranted.io Products and Services.
 
-[🚀 Apply Today](​https://www.getgranted.io/granted-application)
-
 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
 🪢 Our Fundraising Nexus support's managing application flow's from start to finish, including powerful centralized analytics.
+
+[🚀Apply today](​https://www.getgranted.io/granted-application)
 
 Let's connect the best builders to the highest quality sources of funding to drive web3 development and adoption globally! 
 
@@ -13,10 +13,10 @@ Let's connect the best builders to the highest quality sources of funding to dri
 Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
 
 ### Projects Seeking Funding
-Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. [ℹ️ Learn more](FIXME).
+Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. ℹ️ [Learn more](FIXME).
 
 ### Funders Seeking Projects
-Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today! [ℹ️ Learn more](FIXME).
+Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today! [Learn more](FIXME).
 
 Ready to get started? 
 👉 [Apply today](​https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io)
