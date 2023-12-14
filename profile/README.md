@@ -1,5 +1,5 @@
-# Welcome to the Granted. Docs Hub
-### The Official documentation for all GetGranted.io Products and Services.
+# Welcome to GetGranted.io @ Github.
+### The official home for all GetGranted.io open source code and documentation repositories.
 
 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
@@ -12,10 +12,10 @@ Let's connect the best builders to the highest quality sources of funding to dri
 ## 🛠️ Quickstart Guide
 Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
 
-### Projects Seeking Funding
+### 🤤 Projects Seeking Funding
 Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. ℹ️ [Learn more](FIXME).
 
-### Funders Seeking Projects
+### 🏦 Funders Seeking Projects
 Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today! ℹ️ [Learn more](FIXME).
 
 ## 💬 Community
