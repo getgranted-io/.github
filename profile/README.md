@@ -6,15 +6,17 @@
 # 👋 Welcome!
 _The official home for all GetGranted.io open source code and documentation repositories._
 
-🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
-🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
-🪢 Our Fundraising Nexus support's managing application flow's from start to finish, including powerful centralized analytics.
-
-Let's connect the best builders to the highest quality sources of funding to drive web3 development and adoption globally! 
+ 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
+ 
+ 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
+ 
+ 🪢 Our Fundraising Nexus support's managing application flow's from start to finish, including powerful centralized analytics.
 
 🚀 **Ready to get started?**: 👉 [Apply](​https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io) today!
 
 ## 🛠️ Quickstart Guide
+Let's connect the best builders to the highest quality sources of funding to drive web3 development and adoption globally! 
+
 Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
 
 ### 🤤 Projects Seeking Funding
