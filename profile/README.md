@@ -1,5 +1,10 @@
-# Welcome to GetGranted.io @ Github.
-### The official home for all GetGranted.io open source code and documentation repositories.
+<p align="center">
+ <img src="https://github.com/getgranted-io/.github/assets/3764092/b35a21ed-709f-463d-955f-a0d2cc0b9180" alt="Granted Logo Header" height="60%" width="60%">
+</p>
+
+
+# 👋 Welcome!
+_The official home for all GetGranted.io open source code and documentation repositories._
 
 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
 🫱🏾‍🫲🏼 We qualify all builders and funders on both sides so project teams only have to worry about delivering. 
