@@ -1,9 +1,8 @@
 <p align="center">
- <img src="https://github.com/getgranted-io/.github/assets/3764092/b35a21ed-709f-463d-955f-a0d2cc0b9180" alt="Granted Logo Header" height="60%" width="60%">
+ <img src="https://github.com/getgranted-io/.github/assets/3764092/c3d85f02-202a-4f10-bbf9-6276a74f8cef" alt="Granted Logo Header" width="40%">
 </p>
 
-
-# 👋 Welcome!
+# 👋 Welcome
 _The official home for all GetGranted.io open source code and documentation repositories._
 
  🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
