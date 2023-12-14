@@ -20,7 +20,7 @@ Depending on whether you have a project seeking funding or funds seeking project
 ### 🤤 Projects Seeking Funding
 Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. ℹ️ [Learn more](FIXME).
 
-### 🏦 Funders Seeking Projects
+### 🏦 Funding Seeking Projects
 Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem today! ℹ️ [Learn more](FIXME).
 
 ## 💬 Community
